@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Suite1" verbose="2">
+	<parameter name="date" value="2017-10-22"></parameter>
+	<parameter name="ambiente" value="AMBIENTE1"></parameter>
+	<test name="SesionDos">
+		<classes>
+			<class name="training.automation.SesionDos"></class>
+		</classes>
+	</test>
+</suite>
