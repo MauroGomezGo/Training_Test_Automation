@@ -2,13 +2,11 @@ package training.automation;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
-import java.util.Calendar;
 import java.util.Date;
 import java.util.Random;
 
 import org.testng.annotations.*;
 
-import com.sun.org.apache.bcel.internal.generic.IfInstruction;
 
 public class SesionDos {
 
